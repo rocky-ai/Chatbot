@@ -1,1 +1,2 @@
-web: gunicorn app:controller
+web: gunicorn app:app
+
